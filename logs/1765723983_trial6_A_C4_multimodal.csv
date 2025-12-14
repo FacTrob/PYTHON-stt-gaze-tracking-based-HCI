@@ -1,0 +1,4 @@
+cond,goal,mode,reason,success,t_ms,target,total_s,trial,type
+C4_multimodal,A2,A,,,1765723983790,,,6,trial_start
+,,,,,1765723983805,B1,,,hover
+,,,manual_stop,False,1765723983941,,0.151,6,trial_end

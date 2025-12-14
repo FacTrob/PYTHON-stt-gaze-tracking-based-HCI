@@ -1,0 +1,12 @@
+cond,goal,mode,reason,success,t_ms,target,total_s,trial,type
+C4_multimodal,B2,A,,,1765723977950,,,2,trial_start
+,,,,,1765723977958,A1,,,hover
+C4_multimodal,,,,,1765723978020,,,,click_ignored
+,,,,,1765723978324,B1,,,hover
+,,,,,1765723978442,B2,,,hover
+C4_multimodal,,,,,1765723978494,,,,click_ignored
+C4_multimodal,,,,,1765723978672,,,,click_ignored
+C4_multimodal,,,,,1765723978811,,,,click_ignored
+,,,,,1765723978904,B1,,,hover
+C4_multimodal,,,,,1765723978992,,,,click_ignored
+,,,manual_stop,False,1765723979137,,1.187,2,trial_end

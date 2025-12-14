@@ -1,0 +1,25 @@
+{"t_ms": 1765723980247, "type": "trial_start", "trial": 5, "mode": "A", "cond": "C4_multimodal", "goal": "C2"}
+{"t_ms": 1765723980259, "type": "hover", "target": "C2"}
+{"t_ms": 1765723980272, "type": "hover", "target": "B1"}
+{"t_ms": 1765723980310, "type": "hover", "target": "A1"}
+{"t_ms": 1765723980453, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723980673, "type": "hover", "target": "B1"}
+{"t_ms": 1765723980700, "type": "hover", "target": "B2"}
+{"t_ms": 1765723980712, "type": "hover", "target": "C2"}
+{"t_ms": 1765723980754, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723980898, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981036, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981151, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981256, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981414, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981510, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981610, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981740, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723981880, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723982020, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765723982206, "type": "hover", "target": "None"}
+{"t_ms": 1765723983356, "type": "hover", "target": "C1"}
+{"t_ms": 1765723983390, "type": "hover", "target": "B1"}
+{"t_ms": 1765723983439, "type": "hover", "target": "A1"}
+{"t_ms": 1765723983483, "type": "hover", "target": "B1"}
+{"t_ms": 1765723983598, "type": "trial_end", "trial": 5, "success": false, "reason": "manual_stop", "total_s": 3.351}
