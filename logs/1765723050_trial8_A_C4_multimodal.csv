@@ -1,0 +1,3 @@
+cond,goal,mode,reason,success,t_ms,total_s,trial,type
+C4_multimodal,C3,A,,,1765723050149,,8,trial_start
+,,,manual_stop,False,1765723050267,0.118,8,trial_end

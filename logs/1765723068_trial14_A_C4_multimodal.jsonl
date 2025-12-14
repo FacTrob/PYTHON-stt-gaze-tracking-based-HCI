@@ -1,0 +1,26 @@
+{"t_ms": 1765723051725, "type": "trial_start", "trial": 14, "mode": "A", "cond": "C4_multimodal", "goal": "A1"}
+{"t_ms": 1765723055988, "type": "stt_toggle", "enabled": true}
+{"t_ms": 1765723056517, "type": "stt_toggle", "enabled": false}
+{"t_ms": 1765723056753, "type": "stt_toggle", "enabled": true}
+{"t_ms": 1765723057012, "type": "stt_toggle", "enabled": false}
+{"t_ms": 1765723057633, "type": "stt_toggle", "enabled": true}
+{"t_ms": 1765723059068, "type": "stt_toggle", "enabled": false}
+{"t_ms": 1765723059473, "type": "hover", "target": "C2"}
+{"t_ms": 1765723059524, "type": "hover", "target": "C1"}
+{"t_ms": 1765723059552, "type": "hover", "target": "B1"}
+{"t_ms": 1765723059852, "type": "hover", "target": "A1"}
+{"t_ms": 1765723060022, "type": "hover", "target": "B1"}
+{"t_ms": 1765723060171, "type": "hover", "target": "C1"}
+{"t_ms": 1765723060417, "type": "hover", "target": "C2"}
+{"t_ms": 1765723060487, "type": "hover", "target": "C3"}
+{"t_ms": 1765723060695, "type": "hover", "target": "B3"}
+{"t_ms": 1765723060874, "type": "hover", "target": "B2"}
+{"t_ms": 1765723061162, "type": "hover", "target": "B1"}
+{"t_ms": 1765723061252, "type": "hover", "target": "A1"}
+{"t_ms": 1765723061475, "type": "hover", "target": "A2"}
+{"t_ms": 1765723067782, "type": "hover", "target": "B2"}
+{"t_ms": 1765723067983, "type": "hover", "target": "C2"}
+{"t_ms": 1765723068143, "type": "hover", "target": "C3"}
+{"t_ms": 1765723068174, "type": "hover", "target": "None"}
+{"t_ms": 1765723068674, "type": "stt_toggle", "enabled": true}
+{"t_ms": 1765723068692, "type": "trial_end", "trial": 14, "success": false, "reason": "manual_stop", "total_s": 16.967}

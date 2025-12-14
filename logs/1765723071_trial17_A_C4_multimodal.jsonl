@@ -1,0 +1,2 @@
+{"t_ms": 1765723071146, "type": "trial_start", "trial": 17, "mode": "A", "cond": "C4_multimodal", "goal": "B3"}
+{"t_ms": 1765723071644, "type": "trial_end", "trial": 17, "success": false, "reason": "manual_stop", "total_s": 0.498}
