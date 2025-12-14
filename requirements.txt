@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+pyautogui
+SpeechRecognition
+pyaudio; platform_system=="Windows" # <-- 폴 윈도우 유저
