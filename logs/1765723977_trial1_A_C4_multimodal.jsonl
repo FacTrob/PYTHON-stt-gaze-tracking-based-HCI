@@ -1,7 +1,0 @@
-{"t_ms": 1765723977345, "type": "trial_start", "trial": 1, "mode": "A", "cond": "C4_multimodal", "goal": "C3"}
-{"t_ms": 1765723977385, "type": "hover", "target": "C3"}
-{"t_ms": 1765723977398, "type": "hover", "target": "C2"}
-{"t_ms": 1765723977464, "type": "hover", "target": "B2"}
-{"t_ms": 1765723977544, "type": "hover", "target": "B1"}
-{"t_ms": 1765723977556, "type": "hover", "target": "A1"}
-{"t_ms": 1765723977709, "type": "trial_end", "trial": 1, "success": false, "reason": "manual_stop", "total_s": 0.364}

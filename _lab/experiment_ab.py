@@ -60,6 +60,7 @@ class App:
         self.txt.insert("end", guide+"\n")
         self.txt.see("end")
 
+
     def _status(self):
         t=f"COND: {self.cond} | TRIAL: {self.trial_id if self.trial_active else '-'} | PHASE: {self.phase}"
         self.lbl.config(text=t)

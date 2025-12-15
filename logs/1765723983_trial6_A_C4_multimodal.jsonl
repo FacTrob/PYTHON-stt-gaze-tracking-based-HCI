@@ -1,3 +1,0 @@
-{"t_ms": 1765723983790, "type": "trial_start", "trial": 6, "mode": "A", "cond": "C4_multimodal", "goal": "A2"}
-{"t_ms": 1765723983805, "type": "hover", "target": "B1"}
-{"t_ms": 1765723983941, "type": "trial_end", "trial": 6, "success": false, "reason": "manual_stop", "total_s": 0.151}
