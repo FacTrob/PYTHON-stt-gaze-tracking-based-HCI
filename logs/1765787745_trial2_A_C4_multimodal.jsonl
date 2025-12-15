@@ -1,0 +1,12 @@
+{"t_ms": 1765787743470, "type": "trial_start", "trial": 2, "mode": "A", "cond": "C4_multimodal", "goal": "A1"}
+{"t_ms": 1765787743847, "type": "hover", "target": "B3"}
+{"t_ms": 1765787744018, "type": "hover", "target": "B2"}
+{"t_ms": 1765787744243, "type": "hover", "target": "A2"}
+{"t_ms": 1765787744301, "type": "hover", "target": "A1"}
+{"t_ms": 1765787744357, "type": "hover", "target": "None"}
+{"t_ms": 1765787744542, "type": "hover", "target": "A1"}
+{"t_ms": 1765787744642, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765787744783, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765787744926, "type": "click_ignored", "cond": "C4_multimodal"}
+{"t_ms": 1765787745304, "type": "hover", "target": "B1"}
+{"t_ms": 1765787745822, "type": "trial_end", "trial": 2, "success": false, "reason": "manual_stop", "total_s": 2.352}
