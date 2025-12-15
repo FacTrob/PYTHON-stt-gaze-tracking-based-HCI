@@ -6,7 +6,7 @@ from pynput import keyboard
 LOG_DIR="logs"
 os.makedirs(LOG_DIR,exist_ok=True)
 
-SENTENCE="정의로운 과학으로 창의적인 도전을\n바른 인성을 갖춘 노벨과학인재 육성"
+SENTENCE="정의로운 과학으로 창의적인 도전을"
 
 COND_STT_ONLY="C1_STT_ONLY"
 COND_STT_GAZE="C2_STT_GAZE_YESNO"
