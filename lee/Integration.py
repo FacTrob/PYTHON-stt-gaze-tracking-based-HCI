@@ -303,7 +303,7 @@ def parse_to_action(text):
 def main():
     calib = load_calibration()
     if calib is None:
-        print("캘리브레이션 시작 (빠른 모드)")
+        print("캘리브레이션 시작")
         calib = calibrate()
         if not calib:
             print("캘리브레이션 실패")
@@ -363,7 +363,7 @@ def main():
                 elif time.time() - hold_start >= HOLD_SEC:
                     if gaze == "LEFT":
                         pending_action()
-                        print("실행 완료!")
+                        print("실행 완료")
                     else:
                         print("취소됨")
                     pending_action = None
