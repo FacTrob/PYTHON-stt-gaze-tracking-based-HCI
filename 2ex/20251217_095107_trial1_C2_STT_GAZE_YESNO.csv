@@ -1,0 +1,9 @@
+action,cmd,cond,mapping,phase,reason,success,t_ms,total_s,trial,type,typed,yes
+,,C2_STT_GAZE_YESNO,,,,,1765932649095,,1,trial_start,,
+,run_notepad,C2_STT_GAZE_YESNO,,,,,1765932652962,,1,stt_ok,,
+,,C2_STT_GAZE_YESNO,F10=YES(left) F11=NO(right),,,,1765932652973,,1,ask_yesno,,
+,,C2_STT_GAZE_YESNO,,,,,1765932653361,,1,decision,,True
+type_sentence,,C2_STT_GAZE_YESNO,,,,,1765932653367,,1,task_begin,,
+,,C2_STT_GAZE_YESNO,,do_task,phase_not_wait_yesno,,1765932657334,,1,yes_ignored,,
+,,C2_STT_GAZE_YESNO,,,,,1765932667864,,1,task_done,True,
+,,C2_STT_GAZE_YESNO,,,ok,True,1765932667874,18.779,1,trial_end,,

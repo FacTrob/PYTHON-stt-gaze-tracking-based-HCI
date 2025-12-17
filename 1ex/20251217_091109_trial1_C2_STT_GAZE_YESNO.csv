@@ -1,0 +1,6 @@
+cmd,cond,mapping,phase,reason,success,t_ms,total_s,trial,type
+,C2_STT_GAZE_YESNO,,,,,1765930247851,,1,trial_start
+run_notepad,C2_STT_GAZE_YESNO,,,,,1765930252025,,1,stt_ok
+,C2_STT_GAZE_YESNO,F10=YES(left) F11=NO(right),,,,1765930252034,,1,ask_yesno
+,C2_STT_GAZE_YESNO,,wait_yesno,phase_not_do_task,,1765930267866,,1,done_ignored
+,C2_STT_GAZE_YESNO,,,manual_stop,False,1765930269811,21.96,1,trial_end

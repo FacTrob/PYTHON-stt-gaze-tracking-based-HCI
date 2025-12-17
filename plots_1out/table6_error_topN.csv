@@ -1,0 +1,11 @@
+﻿error_code,stage,count
+manual_stop,unknown,15
+manual_stop,do_task,12
+unknown,unknown,8
+unknown,wait_yesno,7
+unknown,wait_stt,6
+manual_stop,wait_stt,6
+do_task,unknown,5
+do_task,do_task,5
+wait_stt,do_task,5
+do_task,wait_stt,5
